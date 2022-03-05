@@ -1,3 +1,3 @@
 # Lead Tracker extension for Chrome
 
-Assists in gethering website leads easily--
+Assists in gathering website leads easily--
