@@ -5,6 +5,8 @@ const ulEl = document.getElementById("ul-el")
 const deleteBtn = document.getElementById("delete-btn")
 const leadsFromLocalStorage = JSON.parse( localStorage.getItem("myLeads") )
 const tabBtn = document.getElementById("tab-btn")
+// line 9 is dummy code for a test from mod7 scrimba Jan 2024
+// const backBtn = document.getElementById("backBtn")
 
 if (leadsFromLocalStorage) {
     myLeads = leadsFromLocalStorage
